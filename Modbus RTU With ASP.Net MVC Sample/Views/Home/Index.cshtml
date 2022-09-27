@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Modbus_RTU_With_ASP.Net_MVC_Sample.Models.Cores.Memory>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Tutorial: Modbus RTU With ASP.Net MVC</h3>
+<h5>Mobile: +84.0909.886.483</h5>
+<h5>E-mail: hoangluu.automation@gmail.com</h5>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Value)
+        </th>
+    </tr>
+
+    <tr>
+        <td>
+            <div id="lbl40001"></div>
+        </td>
+        <td>
+            <div id="txt40001"></div>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <div id="lbl40002"></div>
+        </td>
+        <td>
+            <div id="txt40002"></div>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <div id="lbl40003"></div>
+        </td>
+        <td>
+            <div id="txt40003"></div>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <div id="lbl40004"></div>
+        </td>
+        <td>
+            <div id="txt40004"></div>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <div id="lbl40005"></div>
+        </td>
+        <td>
+            <div id="txt40005"></div>
+        </td>
+    </tr>
+</table>
+
+@section scripts{
+
+    <script src="~/Scripts/jquery.signalR-2.4.1.min.js"></script>
+    <script src='/signalr/js'></script>
+    <script src="~/Scripts/SignalR.js"></script>
+
+}

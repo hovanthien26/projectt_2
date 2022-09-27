@@ -1,0 +1,82 @@
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\ApplicationInsights.config
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\csc.exe
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\csc.exe.config
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\csc.rsp
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\csi.exe
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\csi.rsp
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\System.AppContext.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\System.Collections.Immutable.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\System.IO.FileSystem.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\System.Reflection.Metadata.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\vbc.exe
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\vbc.exe.config
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\vbc.rsp
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\VBCSCompiler.exe
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\roslyn\VBCSCompiler.exe.config
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Modbus RTU With ASP.Net MVC Sample.dll.config
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Modbus RTU With ASP.Net MVC Sample.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Modbus RTU With ASP.Net MVC Sample.pdb
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Antlr3.Runtime.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AI.DependencyCollector.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AI.Web.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AI.WindowsServer.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.ApplicationInsights.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.Owin.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.Owin.Security.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.Web.Infrastructure.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Newtonsoft.Json.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Owin.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.Helpers.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.Mvc.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.Optimization.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.Razor.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.WebPages.Deployment.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.WebPages.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.WebPages.Razor.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\WebGrease.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.Owin.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.Owin.Security.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.Helpers.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.Mvc.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.Optimization.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.Razor.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.WebPages.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.WebPages.Deployment.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\System.Web.WebPages.Razor.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Antlr3.Runtime.pdb
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Newtonsoft.Json.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.ApplicationInsights.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AI.DependencyCollector.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AI.WindowsServer.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\bin\Microsoft.AI.Web.xml
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\obj\Debug\Modbus RTU With ASP.Net MVC Sample.csproj.AssemblyReference.cache
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\obj\Debug\Modbus RTU With ASP.Net MVC Sample.csproj.CoreCompileInputs.cache
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\obj\Debug\Modbus RTU With ASP.Net MVC Sample.csproj.CopyComplete
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\obj\Debug\Modbus RTU With ASP.Net MVC Sample.dll
+D:\Thuc_tap\SignalR\Modbus RTU With ASP.Net MVC Sample\Modbus RTU With ASP.Net MVC Sample\obj\Debug\Modbus RTU With ASP.Net MVC Sample.pdb
